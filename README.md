@@ -6,7 +6,7 @@ Google SSO Authentication on Custom Built Django ORM Model
 
 
 # Features : Secured n Trusted Authentication
-## 1. Custom User Model 
-## 2. JWT Token Generation With Simple JWT
-## 3. Google SSO Integrated with Custom User for API 
-## 4. Google's Own SSO UI Implementation on React Followed by JWT Token 
+1. Custom User Model 
+2. JWT Token Generation With Simple JWT
+3. Google SSO Integrated with Custom User for API 
+4. Google's Own SSO UI Implementation on React Followed by JWT Token 
